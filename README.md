@@ -1,7 +1,8 @@
 # Toxic Rainer
 ## _Auto-BloxFlip Rain Joiner_
 
-Toxic Rainer is a web-socket based background running program used to automatically join BloxFlip Rains
+Toxic Rainer is a web-socket based background running program used to automatically join BloxFlip Rains to get free robux.
+Running it whole week will give you 1500-2500 Robux [Depends].For best results, run it during any event days, such as Christmas
 
 - Run 24/7 with no delay
 - No hardware utilization, hence no heating up of PC.
