@@ -60,6 +60,15 @@ All the keys are required and is case sensitive.
 
 </details>
 
+<details>
+
+<summary> Installing dependencies <summary> 
+
+- Open `install.bat` and run it. 
+- If success, no error should have been shown.
+- Common error includes `npm not recognized`, which means that you haven't either installed or added to path. Refer [here](https://www.youtube.com/watch?v=qZQmCfkmbNA) to fix 
+
+</details>
 
 Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
