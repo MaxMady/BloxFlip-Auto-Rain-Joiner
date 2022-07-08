@@ -30,7 +30,7 @@ Setting up the program is super easy! Firstly, click the green colored button ab
 </details>
 
 <details>
-    <summary> Getting your [BloxFlip](https://bloxflip.com) Authentication </summary>
+    <summary> Getting your BloxFlip Authentication </summary>
     
 - Go to [Bloxflip](https://bloxflip.com) and then press `CTRL+SHIFT+I` or `F12` or just open Developer tools
 - Navigate to `console` and enter the following code.
