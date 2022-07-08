@@ -72,8 +72,8 @@ All the keys are required and is case sensitive.
 
 <details>
     <summary>Running</summary>
-        - Open `run.bat` and wait for a rain.
-        - If any error occurs, you may contact me via Discord or Reddit!
+- Open `run.bat` and wait for a rain.
+- If any error occurs, you may contact me via Discord or Reddit!
 </details>
 
    ## COntribute
