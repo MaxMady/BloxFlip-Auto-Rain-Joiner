@@ -36,15 +36,15 @@ Setting up the program is super easy! Firstly, click the green colored button ab
 - Go to [Bloxflip](https://bloxflip.com) and then press `CTRL+SHIFT+I` or `F12` or just open Developer tools
 - Navigate to `console` and enter the following code.
 
-<details>
+    <details>
 
   <summary>Code</summary>
     
-```js
-localStorage.getItem('_DO_NOT_SHARE_BLOXFLIP_TOKEN')
-```
+    ```js
+    localStorage.getItem('_DO_NOT_SHARE_BLOXFLIP_TOKEN')
+    ```
 
-</details>
+    </details>
 
 
 
