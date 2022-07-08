@@ -61,7 +61,6 @@ All the keys are required and is case sensitive.
 </details>
 
 <details>
-
 <summary> Installing dependencies <summary> 
 
 - Open `install.bat` and run it. 
