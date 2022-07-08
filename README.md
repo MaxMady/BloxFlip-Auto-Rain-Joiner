@@ -34,7 +34,7 @@ Setting up the program is super easy! Firstly, click the green colored button ab
   <summary>Code</summary>
   ```js
 localStorage.getItem('_DO_NOT_SHARE_BLOXFLIP_TOKEN')
-  ```
+ ```
 </details>
 
 
