@@ -1,0 +1,32 @@
+{
+  "name": "bloxflip-auto-rain-joiner",
+  "version": "2.3.0",
+  "description": "A bloxflip rain exploit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxMady/BloxFlip-Auto-Rain-Joiner.git"
+  },
+  "keywords": [
+    "bloxflip",
+    "bloxfliphack"
+  ],
+  "author": "dux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxMady/BloxFlip-Auto-Rain-Joiner/issues"
+  },
+  "homepage": "https://github.com/MaxMady/BloxFlip-Auto-Rain-Joiner#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "fetch": "^1.1.0",
+    "node-notifier": "^10.0.1",
+    "open": "^8.4.0",
+    "puppeteer": "^15.3.2",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.0"
+  }
+}
