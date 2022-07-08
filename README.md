@@ -78,4 +78,11 @@ All the keys are required and is case sensitive.
     
 </details>
 
-   ## COntribute
+## Contribute
+**Wanna contribute for the development of BloxFlip Tools?**
+> In the coming weeks, a paid version of <u>**BloxFLip Crash revealer**</u> would be released and the price would go as high as 35$ per month.
+> You can simply avoid this by contributing for the development and earn a free life-time access to it!
+
+## Support & Contact
+- [Discord](https://discord.gg/zbgQYsyhAv)
+- [Reddit](https://www.reddit.com/user/Dark_Melon23)
