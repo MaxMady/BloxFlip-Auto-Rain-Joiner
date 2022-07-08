@@ -39,12 +39,14 @@ Setting up the program is super easy! Firstly, click the green colored button ab
 <details>
 
   <summary>Code</summary>
-  
-</details>
-
+    
 ```js
 localStorage.getItem('_DO_NOT_SHARE_BLOXFLIP_TOKEN')
 ```
+
+</details>
+
+
 
 </details>
 
