@@ -28,12 +28,15 @@ Setting up the program is super easy! Firstly, click the green colored button ab
 - Download the latest version of NodeJS from [here](https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi)
 
 </details>
+
 <details>
     <summary> Getting your [BloxFlip](https://bloxflip.com) Authentication </summary>
+    
 - Go to [Bloxflip](https://bloxflip.com) and then press `CTRL+SHIFT+I` or `F12` or just open Developer tools
 - Navigate to `console` and enter the following code.
 
 <details>
+    
   <summary>Code</summary>
     
 ```js
@@ -42,6 +45,7 @@ localStorage.getItem('_DO_NOT_SHARE_BLOXFLIP_TOKEN')
 ```
     
 </details>
+    
 </details>
 
 ### Editing Config.json
