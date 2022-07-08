@@ -28,6 +28,9 @@ Setting up the program is super easy! Firstly, click the green colored button ab
 <summary> Installing Node </summary>
 
 - Download the latest version of NodeJS from [here](https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi)
+- Install the `.msi` package and load NodeJS.
+- Make sure to add to path.
+    **Refer [here]((https://www.youtube.com/watch?v=qZQmCfkmbNA) for simple tutorial**
 
 </details>
 <details>
