@@ -16,7 +16,7 @@ Toxic Rainer is a web-socket based background running program used to automatica
 - Super stealthy
 
 ## Why was this project made?
-> The main goal behind creation of such a program was to provide free robux to people who can't afford it. [EzRain]() as well sells this, but at unfairingly overpriced, and therefore I wanted to contribute whatever I could!
+> The main goal behind creation of such a program was to provide free robux to people who can't afford it. [EzRain](https://www.youtube.com/watch?v=tg0wg09WTjs) as well sells this, but at unfairingly overpriced, and therefore I wanted to contribute whatever I could!
 
 ## __Setup__
 
