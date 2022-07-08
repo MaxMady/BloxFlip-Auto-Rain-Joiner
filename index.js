@@ -1,4 +1,4 @@
-let v = `2.3.1`
+let v = `2.3.2`
 
 const open = require("open");
 const notifier = require("node-notifier");
