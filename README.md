@@ -1,4 +1,4 @@
-# Toxic Rainer
+# [Toxic Rainer](https://discord.gg/zbgQYsyhAv)
 ## _Auto-BloxFlip Rain Joiner_
 
 Toxic Rainer is a web-socket based background running program used to automatically join BloxFlip Rains to get free robux.
