@@ -7,7 +7,7 @@ const puppeteer = require('puppeteer-extra')
 var fetchUrl = require("fetch").fetchUrl;
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
 puppeteer.use(StealthPlugin())
-const config = require('./config.json')
+const config = require('./config.js')
 process.on('unhandledRejection', error => {
 	console.error('Unhandled promise rejection:', error);
 });
