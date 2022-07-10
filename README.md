@@ -8,7 +8,7 @@ Running it whole week will give you **1500-2500** Robux [Depends].For best resul
 - Run 24/7 with no delay
 - No hardware utilization, hence no heating up of PC.
 
-> *Read [this](https://github.com/MaxMady/BloxFlip-Auto-Rain-Joiner#contribute) if you want to know Crash revealer*
+> *Read [this](https://github.com/MaxMady/BloxFlip-Auto-Rain-Joiner#contribute) if you want to know Crash revealer & ⭐ the repo for better projects*
 
 ## Features
 
