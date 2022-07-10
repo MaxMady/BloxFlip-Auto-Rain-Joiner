@@ -100,3 +100,7 @@ All the keys are required and is case sensitive.
 ## Support & Contact
 - [Discord](https://discord.gg/zbgQYsyhAv)
 - [Reddit](https://www.reddit.com/user/Dark_Melon23)
+
+## Issues
+
+**You can open an issue from [here](https://github.com/MaxMady/BloxFlip-Auto-Rain-Joiner/issues/new) incase of any errors occuring that you face.**
