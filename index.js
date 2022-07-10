@@ -1,5 +1,6 @@
 let v = `2.3.4`
 
+var cloudscraper = require('cloudscraper');
 const notifier = require("node-notifier");
 const { MessageEmbed, WebhookClient } = require("discord.js");
 const puppeteer = require('puppeteer-extra')
